@@ -1,3 +1,10 @@
+# ETHGlobal Istanbul 2023 Project Submission
+
+![ETHGlobal_Istanbul_Banner](https://github.com/eth-global-ist-2023/yield-for-good/assets/8581537/7273f57f-550d-48eb-b69c-24130539fc5b)
+
+## About
+YieldForGood is an innovative concept, where users can delegate the yield generated from any ERC-4626 yield-bearing token. In return, they receive a ERC-5192 Minimal Soulbound token, representing a Proof of Contribution Certificate.
+
 # Hardhat Template [![Open in Gitpod][gitpod-badge]][gitpod] [![Github Actions][gha-badge]][gha] [![Hardhat][hardhat-badge]][hardhat] [![License: MIT][license-badge]][license]
 
 [gitpod]: https://gitpod.io/#https://github.com/paulrberg/hardhat-template
